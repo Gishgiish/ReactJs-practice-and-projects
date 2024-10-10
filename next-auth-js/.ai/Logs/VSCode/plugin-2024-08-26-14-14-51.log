@@ -1,0 +1,12 @@
+[8/26/2024, 2:14:51 PM] info: Logging was started
+[8/26/2024, 2:14:51 PM] info: Start application inspector initialization
+[8/26/2024, 2:14:51 PM] info: Hide developer mode UI
+[8/26/2024, 2:14:51 PM] info: Infrastructure Configurations: {"port":8000,"infrastructureAssemblyFolderPath":"C:\\Users\\gishn\\AppData\\Local\\Application Inspector Analyzer","applicationResourcesFolderPath":"C:\\Users\\gishn\\AppData\\Local\\Application Inspector Analyzer","scanTargetFolderPath":"c:\\Users\\gishn\\Desktop\\ReactJs practice and projects\\next-auth-js","isDebugging":false,"logLevel":{"q8_1":"Error","r8_1":5,"type":5,"key":"Settings.LogLevel.Error.Text"},"logDir":"c:\\Users\\gishn\\Desktop\\ReactJs practice and projects\\next-auth-js\\.ai\\Logs\\Infrastructure\\2024-08-26-14-14-51","applicationLocalDataFolderPath":"c:\\Users\\gishn\\Desktop\\ReactJs practice and projects\\next-auth-js\\.ai"}
+[8/26/2024, 2:14:51 PM] info: Start infrastructure initialization
+[8/26/2024, 2:14:52 PM] info: Infrastructure was started
+[8/26/2024, 2:14:59 PM] info: Initialize aie integration isn't initialized
+[8/26/2024, 2:14:59 PM] info: Infrastructure was initialized
+[8/26/2024, 2:14:59 PM] info: Infrastructure Installer was deleted
+[8/26/2024, 2:15:01 PM] info: Clean up logs files was started
+[8/26/2024, 2:15:01 PM] info: Clean up logs files was finished
+[8/26/2024, 2:15:06 PM] info: Project was created. Id: a53a6043-8d02-4ec9-9f00-c8a2769de728
